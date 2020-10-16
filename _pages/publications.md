@@ -24,7 +24,7 @@ author_profile: true
 
 
 ### International conference (First Author)
-1. **Ryo Hachiuma**, Tomohiro Shimizu, Hideo Saito, Hiroki Kajita, Yoshihumi Takatsume, Deep Selection: "A Fully Supervised Camera Selection Network for Surgery Recordings", 23rd International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2020), 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_40)
+1. **Ryo Hachiuma**, Tomohiro Shimizu, Hideo Saito, Hiroki Kajita, Yoshihumi Takatsume, "Deep Selection: A Fully Supervised Camera Selection Network for Surgery Recordings", 23rd International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2020), 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_40)
 2. **Ryo Hachiuma**, Christian Pirchheim, Dieter Schmalstieg and Hideo Saito, "DetectFusion: Detecting and Segmenting Both Known and Unknown Dynamic Objects in Real-time SLAM", 30th British Machine Vision Conference (BMVC), September, 2019. [paper](https://bmvc2019.org/wp-content/uploads/papers/0499-paper.pdf)
 3. **Ryo Hachiuma** and Hideo Saito, "Volumetric Representation of Semantically Segmented Human Body Parts Using Superquadrics", The 16th EuroVR Conference, pp.52-61, October, 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-31908-3_4)
 4. **Ryo Hachiuma** and Hideo Saito, "Volumetric Representation of Human Body Parts Using Superquadrics", IEEE International Symposium on Mixed and Augmented Reality (ISMAR), pp.187-188, October, 2019. [paper](https://ieeexplore.ieee.org/document/8951953)
