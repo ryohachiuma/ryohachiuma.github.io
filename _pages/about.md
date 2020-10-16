@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
 I am currently Ph.D. student of Keio University in Japan. 
 Recently, I have been researching follwing topics:
 - 3D SLAM system under the dynamic environment.
