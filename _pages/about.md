@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research engineer working for an industrial company in Japan.
+
 
 I am currently Ph.D. student of Keio University in Japan. 
 Recently, I have been researching follwing topics:
