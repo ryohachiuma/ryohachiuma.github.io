@@ -23,8 +23,11 @@ author_profile: true
 1. **Ryo Hachiuma**, Hideo Saito, "Pose Estimation of Primitive-Shaped Objects from a Depth Image Using Superquadric Representation", Applied Science, MDPI,  2020, 10, 5442. [paper](https://www.mdpi.com/2076-3417/10/16/5442)
 
 
+### Preprints
+1. Moi Hoon Yap, **Ryo Hachiuma**, Azadeh Alavi, Raphael Brungel, Manu Goyal, Hongtao Zhu, Bill Cassidy, Johannes Ruckert, Moshe Olshansky, Xiao Huang, Hideo Saito, Saeed Hassanpour, Christoph M Friedrich, David Ascher, Anping Song, Hiroki Kajita, David Gillespie, Neil D Reeves, Joseph Pappachan, Claire O'Shea, Eibe Frank, "Deep Learning in Diabetic Foot Ulcers Detection: A Comprehensive Evaluation", arxiv:2010.03341 [paper](https://arxiv.org/abs/2010.03341)
+
 ### International conference (First Author)
-1. **Ryo Hachiuma**, Tomohiro Shimizu, Hideo Saito, Hiroki Kajita, Yoshihumi Takatsume, "Deep Selection: A Fully Supervised Camera Selection Network for Surgery Recordings", 23rd International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2020), 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_40)
+1. **Ryo Hachiuma**, Tomohiro Shimizu, Hideo Saito, Hiroki Kajita, Yoshihumi Takatsume, "Deep Selection: A Fully Supervised Camera Selection Network for Surgery Recordings", 23rd International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_40)
 2. **Ryo Hachiuma**, Christian Pirchheim, Dieter Schmalstieg and Hideo Saito, "DetectFusion: Detecting and Segmenting Both Known and Unknown Dynamic Objects in Real-time SLAM", 30th British Machine Vision Conference (BMVC), September, 2019. [paper](https://bmvc2019.org/wp-content/uploads/papers/0499-paper.pdf)
 3. **Ryo Hachiuma** and Hideo Saito, "Volumetric Representation of Semantically Segmented Human Body Parts Using Superquadrics", The 16th EuroVR Conference, pp.52-61, October, 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-31908-3_4)
 4. **Ryo Hachiuma** and Hideo Saito, "Volumetric Representation of Human Body Parts Using Superquadrics", IEEE International Symposium on Mixed and Augmented Reality (ISMAR), pp.187-188, October, 2019. [paper](https://ieeexplore.ieee.org/document/8951953)
@@ -63,5 +66,5 @@ author_profile: true
 1. **八馬遼**,　小篠裕子,　斎藤英雄,Multi-task CNN を用いた単眼 RGB 画像からの超二次関数推定,第 210 回コンピュータビジョンとイメージメディア研究会,大阪府立大学,大阪府,2018年1月19日.
 1. **八馬遼**,　小篠裕子,　斎藤英雄,RGB 画像からの物体検出と三次元基本形状推定,第 21 回画像の認識・理解シンポジウム,札幌ホテルガーデンパレス,北海道,2018年8月6日.
 1. 齋藤祐貴，**八馬遼**，山口真弘，斎藤英雄，SLAMを用いたRoll方向回転に頑健な単眼depth推定の精度改善手法，第222回コンピュータビジョンとイメージメディア研究会，2020年5月15日． [<b>優秀賞</b>]
-1. **八馬遼**，石川 礼，家永直人，久能若葉，杉浦裕太，斎藤英雄,  ３Dセマティックセグメンテーションを用いた実環境における家具再配置シミュレーション, 第25回知能メカトロニクスワークショップ, 2020.
+1. **八馬遼**，石川 礼，家永直人，久能若葉，杉浦裕太，斎藤英雄,  3Dセマティックセグメンテーションを用いた実環境における家具再配置シミュレーション, 第25回知能メカトロニクスワークショップ, 2020.
 
