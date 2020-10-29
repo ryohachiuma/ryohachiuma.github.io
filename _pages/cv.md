@@ -39,7 +39,7 @@ redirect_from:
 
 
 ## Competitions
-- Diabetic Foot Ulcer Challenge in MICCAI 2020 <b>1st Place </b> [Link](https://dfu-challenge.github.io/)
+- Diabetic Foot Ulcer Challenge in MICCAI 2020 <b>1st Place </b> [Link](https://dfu-challenge.github.io/) [code](https://github.com/ryohachiuma/DFU-challenge)
 - AI Edge Contest Semantic Segmentation Challenge 2019 <b>10th Prize</b> [Link](https://www.meti.go.jp/english/press/2018/1112_001.html)
 
 ## Publications
