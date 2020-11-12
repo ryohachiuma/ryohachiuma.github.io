@@ -24,7 +24,7 @@ author_profile: true
 
 
 ### Preprints
-1. Zhengyi Luo*, **Ryo Hachiuma***, Ye Yuan, Shun Iwase, Kris M. Kitani, "Kinematics-Guided Reinforcement Learning for Object-Aware 3D Ego-Pose Estimation", arxiv:2011.04837 [paper](https://arxiv.org/abs/2011.04837) (* Equal contribution)
+1. Zhengyi Luo\*, **Ryo Hachiuma**\*, Ye Yuan, Shun Iwase, Kris M. Kitani, "Kinematics-Guided Reinforcement Learning for Object-Aware 3D Ego-Pose Estimation", arxiv:2011.04837 [paper](https://arxiv.org/abs/2011.04837) (* Equal contribution)
 1. Moi Hoon Yap, **Ryo Hachiuma**, Azadeh Alavi, Raphael Brungel, Manu Goyal, Hongtao Zhu, Bill Cassidy, Johannes Ruckert, Moshe Olshansky, Xiao Huang, Hideo Saito, Saeed Hassanpour, Christoph M Friedrich, David Ascher, Anping Song, Hiroki Kajita, David Gillespie, Neil D Reeves, Joseph Pappachan, Claire O'Shea, Eibe Frank, "Deep Learning in Diabetic Foot Ulcers Detection: A Comprehensive Evaluation", arxiv:2010.03341 [paper](https://arxiv.org/abs/2010.03341)
 
 ### International conference (First Author)
