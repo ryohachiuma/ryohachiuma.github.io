@@ -39,6 +39,7 @@ author_profile: true
 
 ### International conference (Co-Author)
 1. Kana Matsuo, **Ryo Hachiuma**, Hideo Saito, Yuta Sugiura, 	"Interactive Missing Completion System for 3D Scan Data", International Conference on 3D Vision, Demo session, 2020.
+1. Hisako Tomita, Keitaro Yoshida, Ryo Hachiuma, Hiroki Kajita, Tetsu Hayashida, Naoto Ienaga, Maki Sugimoto, "Predicting Gaze of Surgeon by Hand Regions in First-Person Surgical Video", Asian Conference on Computer Aided Surgery (ACCAS), 2020.
 1. Keitaro Yoshida, **Ryo Hachiuma**, Jingjing Pan, Hiroki Kajita, Tetsu Hayashida, Maki Sugimoto, "Learning Gaze for AI Based Spatial Video Editing in Egocentric Surgical Videos", Asian Conference on Computer Aided Surgery (ACCAS), 2020.
 1. Reina Ishikawa, **Ryo Hachiuma**, Akiyoshi Kurobe, Hideo Saito, "Single-modal Incremental Terrain Clustering from Self-Supervised Audio-Visual Feature Learning", International Conference on Pattern Recognition (ICPR), 2020.
 1. Mana Masuda, **Ryo Hachiuma**, Ryo Fujii, Hideo Saito, "Unsupervised Anomaly Detection of the First Person in Gait from an Egocentric Camera", International Symposium on Visual Computing (ISVC), 2020.
