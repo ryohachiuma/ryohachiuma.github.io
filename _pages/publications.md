@@ -22,6 +22,9 @@ author_profile: true
 ### Journal Papers
 1. **Ryo Hachiuma**, Hideo Saito, "Pose Estimation of Primitive-Shaped Objects from a Depth Image Using Superquadric Representation", Applied Science, MDPI,  2020, 10, 5442. [paper](https://www.mdpi.com/2076-3417/10/16/5442)
 
+### Journal Papers (in Japanese)
+1. **Ryo Hachiuma**, Christian Pirchheim, Hideo Saito, and Dieter Schmalstieg, Real-time Multiple Object Tracking and Reconstruction with a Moving RGBD Camera, IEICE Transactions on Information and Systems, 2021 (Accepted)．
+1. Yuki Saito, **Ryo Hachiuma**, Masahiro Yamaguchi, and Hideo Saito, Training-free Approach to Improve the Accuracy of Monocular Depth Estimation with In-Plane Rotation, IEICE Transactions on Information and Systems, 2021 (Accepted)．
 
 ### Preprints
 1. Zhengyi Luo\*, **Ryo Hachiuma**\*, Ye Yuan, Shun Iwase, Kris M. Kitani, "Kinematics-Guided Reinforcement Learning for Object-Aware 3D Ego-Pose Estimation", arxiv:2011.04837 [paper](https://arxiv.org/abs/2011.04837) (* Equal contribution)
@@ -39,7 +42,7 @@ author_profile: true
 
 ### International conference (Co-Author)
 1. Kana Matsuo, **Ryo Hachiuma**, Hideo Saito, Yuta Sugiura, 	"Interactive Missing Completion System for 3D Scan Data", International Conference on 3D Vision, Demo session, 2020.
-1. Hisako Tomita, Keitaro Yoshida, Ryo Hachiuma, Hiroki Kajita, Tetsu Hayashida, Naoto Ienaga, Maki Sugimoto, "Predicting Gaze of Surgeon by Hand Regions in First-Person Surgical Video", Asian Conference on Computer Aided Surgery (ACCAS), 2020.
+1. Hisako Tomita, Keitaro Yoshida, **Ryo Hachiuma**, Hiroki Kajita, Tetsu Hayashida, Naoto Ienaga, Maki Sugimoto, "Predicting Gaze of Surgeon by Hand Regions in First-Person Surgical Video", Asian Conference on Computer Aided Surgery (ACCAS), 2020.
 1. Keitaro Yoshida, **Ryo Hachiuma**, Jingjing Pan, Hiroki Kajita, Tetsu Hayashida, Maki Sugimoto, "Learning Gaze for AI Based Spatial Video Editing in Egocentric Surgical Videos", Asian Conference on Computer Aided Surgery (ACCAS), 2020.
 1. Reina Ishikawa, **Ryo Hachiuma**, Akiyoshi Kurobe, Hideo Saito, "Single-modal Incremental Terrain Clustering from Self-Supervised Audio-Visual Feature Learning", International Conference on Pattern Recognition (ICPR), 2020.
 1. Mana Masuda, **Ryo Hachiuma**, Ryo Fujii, Hideo Saito, "Unsupervised Anomaly Detection of the First Person in Gait from an Egocentric Camera", International Symposium on Visual Computing (ISVC), 2020.
