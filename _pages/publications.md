@@ -21,6 +21,7 @@ author_profile: true
 <!---## All publications-->
 ### Journal Papers
 1. **Ryo Hachiuma**, Hideo Saito, "Pose Estimation of Primitive-Shaped Objects from a Depth Image Using Superquadric Representation", Applied Science, MDPI,  2020, 10, 5442. [paper](https://www.mdpi.com/2076-3417/10/16/5442)
+1. Tomohiro Shimizu, **Ryo Hachiuma**, Hiroki Kajita, Yoshifumi Takatsume, Hideo Saito, "Hand Motion-Aware Surgical Tool Localization and Classification from an Egocentric Camera", Journal of Imaging, MDPI, 2021, 7(2), 15. [paper](https://www.mdpi.com/2313-433X/7/2/15)
 
 ### Journal Papers (in Japanese)
 1. **Ryo Hachiuma**, Christian Pirchheim, Hideo Saito, and Dieter Schmalstieg, Real-time Multiple Object Tracking and Reconstruction with a Moving RGBD Camera, IEICE Transactions on Information and Systems, 2021 (Accepted)．
