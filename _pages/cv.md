@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 - B.S. in Engineering, Keio University, 2016
 - M.S. in Engineering, Keio University, 2018
-- Ph.D in Engineering, Keio University, Now.
+- Ph.D in Engineering, Keio University, 2021.
 
 ## Work experience
 * Aug. 2015 - Oct. 2015: Internship
@@ -34,7 +34,7 @@ redirect_from:
 ## Academic experience
 - ISMAR 2019 Reviewer
 - IEEE VR 2019 Reviewer
-- IEEE Access Reviewer [Publon](https://publons.com/researcher/3179508/ryo-hachiuma/)
+- IEEE Access Reviewer
 - IPSJ Computer Vision and Applications Reviewer
 
 

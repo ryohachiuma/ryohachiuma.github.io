@@ -22,10 +22,11 @@ author_profile: true
 ### Journal Papers
 1. **Ryo Hachiuma**, Hideo Saito, "Pose Estimation of Primitive-Shaped Objects from a Depth Image Using Superquadric Representation", Applied Science, MDPI,  2020, 10, 5442. [paper](https://www.mdpi.com/2076-3417/10/16/5442)
 1. Tomohiro Shimizu, **Ryo Hachiuma**, Hiroki Kajita, Yoshifumi Takatsume, Hideo Saito, "Hand Motion-Aware Surgical Tool Localization and Classification from an Egocentric Camera", Journal of Imaging, MDPI, 2021, 7(2), 15. [paper](https://www.mdpi.com/2313-433X/7/2/15)
+1. Ryo Fujii, Jayakorn Vongkulbhisal, **Ryo Hachiuma** Hideo Saito, "A Two-Block RNN-based Trajectory Prediction from Incomplete Trajectory", IEEE Access, doi: 10.1109/ACCESS.2021.3072135. [paper](https://ieeexplore.ieee.org/document/9399439)
 
 ### Journal Papers (in Japanese)
-1. **Ryo Hachiuma**, Christian Pirchheim, Hideo Saito, and Dieter Schmalstieg, Real-time Multiple Object Tracking and Reconstruction with a Moving RGBD Camera, IEICE Transactions on Information and Systems, 2021 (Accepted)．
-1. Yuki Saito, **Ryo Hachiuma**, Masahiro Yamaguchi, and Hideo Saito, Training-free Approach to Improve the Accuracy of Monocular Depth Estimation with In-Plane Rotation, IEICE Transactions on Information and Systems, 2021 (Accepted)．
+1. **Ryo Hachiuma**, Christian Pirchheim, Hideo Saito, and Dieter Schmalstieg, Real-time Multiple Object Tracking and Reconstruction with a Moving RGBD Camera, IEICE Transactions on Information and Systems, Vol.J104-D, No.4, pp.368-376．[paper](https://search.ieice.org/bin/summary.php?id=j104-d_4_368)
+1. Yuki Saito, **Ryo Hachiuma**, Masahiro Yamaguchi, and Hideo Saito, Training-free Approach to Improve the Accuracy of Monocular Depth Estimation with In-Plane Rotation, IEICE Transactions on Information and Systems, Vol.J104-D, No.4, pp.377-387． [paper](https://search.ieice.org/bin/summary.php?id=j104-d_4_377&category=D&year=2021&lang=J&abst=)
 
 ### Preprints
 1. Zhengyi Luo\*, **Ryo Hachiuma**\*, Ye Yuan, Shun Iwase, Kris M. Kitani, "Kinematics-Guided Reinforcement Learning for Object-Aware 3D Ego-Pose Estimation", arxiv:2011.04837 [paper](https://arxiv.org/abs/2011.04837) (* Equal contribution)
@@ -45,7 +46,7 @@ author_profile: true
 1. Kana Matsuo, **Ryo Hachiuma**, Hideo Saito, Yuta Sugiura, 	"Interactive Missing Completion System for 3D Scan Data", International Conference on 3D Vision, Demo session, 2020.
 1. Hisako Tomita, Keitaro Yoshida, **Ryo Hachiuma**, Hiroki Kajita, Tetsu Hayashida, Naoto Ienaga, Maki Sugimoto, "Predicting Gaze of Surgeon by Hand Regions in First-Person Surgical Video", Asian Conference on Computer Aided Surgery (ACCAS), 2020.
 1. Keitaro Yoshida, **Ryo Hachiuma**, Jingjing Pan, Hiroki Kajita, Tetsu Hayashida, Maki Sugimoto, "Learning Gaze for AI Based Spatial Video Editing in Egocentric Surgical Videos", Asian Conference on Computer Aided Surgery (ACCAS), 2020.
-1. Reina Ishikawa, **Ryo Hachiuma**, Akiyoshi Kurobe, Hideo Saito, "Single-modal Incremental Terrain Clustering from Self-Supervised Audio-Visual Feature Learning", International Conference on Pattern Recognition (ICPR), 2020.
+1. Reina Ishikawa, **Ryo Hachiuma**, Akiyoshi Kurobe, Hideo Saito, "Single-modal Incremental Terrain Clustering from Self-Supervised Audio-Visual Feature Learning", International Conference on Pattern Recognition (ICPR), 2020. [paper](http://hvrl.ics.keio.ac.jp/paper/pdf/international_Conference/2020/ICPR2020_Ishikawa.pdf)
 1. Mana Masuda, **Ryo Hachiuma**, Ryo Fujii, Hideo Saito, "Unsupervised Anomaly Detection of the First Person in Gait from an Egocentric Camera", International Symposium on Visual Computing (ISVC), 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-64559-5_48)
 1. Elena Pena-Tapia, **Ryo Hachiuma**, Antoine Pasquali, Hideo Saito, "LCR-SMPL: Toward Real-time Human Detection and 3D Reconstruction from a Single RGB Image", IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9288458/)
 1. Ryo Fujii, **Ryo Hachiuma**, Hideo Saito, "RGB-D Image Inpainting Using Generative Adversarial Network with a Late Fusion Approach", International Conference on Augmented Reality, Virtual Reality and Computer Graphics (AVR), September, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58465-8_32)
