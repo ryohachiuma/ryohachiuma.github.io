@@ -22,7 +22,8 @@ author_profile: true
 ### Journal Papers
 1. **Ryo Hachiuma**, Hideo Saito, "Pose Estimation of Primitive-Shaped Objects from a Depth Image Using Superquadric Representation", Applied Science, MDPI,  2020, 10, 5442. [paper](https://www.mdpi.com/2076-3417/10/16/5442)
 1. Tomohiro Shimizu, **Ryo Hachiuma**, Hiroki Kajita, Yoshifumi Takatsume, Hideo Saito, "Hand Motion-Aware Surgical Tool Localization and Classification from an Egocentric Camera", Journal of Imaging, MDPI, 2021, 7(2), 15. [paper](https://www.mdpi.com/2313-433X/7/2/15)
-1. Ryo Fujii, Jayakorn Vongkulbhisal, **Ryo Hachiuma** Hideo Saito, "A Two-Block RNN-based Trajectory Prediction from Incomplete Trajectory", IEEE Access, doi: 10.1109/ACCESS.2021.3072135. [paper](https://ieeexplore.ieee.org/document/9399439)
+1. Ryo Fujii, Jayakorn Vongkulbhisal, **Ryo Hachiuma**, Hideo Saito, "A Two-Block RNN-based Trajectory Prediction from Incomplete Trajectory", IEEE Access, doi: 10.1109/ACCESS.2021.3072135. [paper](https://ieeexplore.ieee.org/document/9399439)
+1. Reina Ishikawa, Ryo Hachiuma, Hideo Saito, "Self-Supervised Audio-Visual Feature Learning for Single-modal Incremental Terrain Type Clustering", IEEE Access, doi: 10.1109/ACCESS.2021.3075582. [paper](https://ieeexplore.ieee.org/abstract/document/9416486)
 
 ### Journal Papers (in Japanese)
 1. **Ryo Hachiuma**, Christian Pirchheim, Hideo Saito, and Dieter Schmalstieg, Real-time Multiple Object Tracking and Reconstruction with a Moving RGBD Camera, IEICE Transactions on Information and Systems, Vol.J104-D, No.4, pp.368-376．[paper](https://search.ieice.org/bin/summary.php?id=j104-d_4_368)

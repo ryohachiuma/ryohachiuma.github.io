@@ -23,6 +23,8 @@ redirect_from:
   * TU Graz
 * Aug. 2019 - Dec. 2019: Visiting researcher
   * Carnegie Mellon University
+* Apr. 2021 - 
+  * Konicaminolta
 
 ## Award
 - **Ryo Hachiuma**, Wentong Liao, Manuel Nickel, and Giovanna Pappalardo, <b>Honorable Mention Award</b> Essay Competition - The Social Impact of Computer Vision in International Computer Vision Summer School 2019.
@@ -32,7 +34,7 @@ redirect_from:
 
 
 ## Academic experience
-- ISMAR 2019 Reviewer
+- ISMAR 2019, 2020, 2021 Reviewer
 - IEEE VR 2019 Reviewer
 - IEEE Access Reviewer
 - IPSJ Computer Vision and Applications Reviewer
