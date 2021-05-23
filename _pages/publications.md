@@ -44,6 +44,8 @@ author_profile: true
 8. **Ryo Hachiuma** and Hideo Saito, "Recognition and Pose Estimation of Primitive Shapes from Depth Images for Spatial Augmented Reality", IEEE Virtual Reality Workshop (IEEEVRW), March, 2016. [paper](https://ieeexplore.ieee.org/document/7859541?section=abstract)
 
 ### International conference (Co-Author)
+1. Ryosuke Hori, **Ryo Hachiuma**, Hideo Saito, Mariko Isogawa, Dan Mikami, "Silhouette-based Synthetic Data Generation for 3D Human Pose Estimation with a Single Wrist-mounted 360° Camera", International Conference on Image Processing (ICIP 2021).
+1. Mana Masuda, **Ryo Hachiuma**, Ryo Fujii, Hideo Saito, Yusuke Sekikawa, "Toward Unsupervised 3D Point Cloud Anomaly Detection using Variational Autoencoder", International Conference on Image Processing (ICIP 2021).
 1. Kana Matsuo, **Ryo Hachiuma**, Hideo Saito, Yuta Sugiura, 	"Interactive Missing Completion System for 3D Scan Data", International Conference on 3D Vision, Demo session, 2020.
 1. Hisako Tomita, Keitaro Yoshida, **Ryo Hachiuma**, Hiroki Kajita, Tetsu Hayashida, Naoto Ienaga, Maki Sugimoto, "Predicting Gaze of Surgeon by Hand Regions in First-Person Surgical Video", Asian Conference on Computer Aided Surgery (ACCAS), 2020.
 1. Keitaro Yoshida, **Ryo Hachiuma**, Jingjing Pan, Hiroki Kajita, Tetsu Hayashida, Maki Sugimoto, "Learning Gaze for AI Based Spatial Video Editing in Egocentric Surgical Videos", Asian Conference on Computer Aided Surgery (ACCAS), 2020.
