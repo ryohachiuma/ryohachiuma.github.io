@@ -24,6 +24,7 @@ author_profile: true
 1. Tomohiro Shimizu, **Ryo Hachiuma**, Hiroki Kajita, Yoshifumi Takatsume, Hideo Saito, "Hand Motion-Aware Surgical Tool Localization and Classification from an Egocentric Camera", Journal of Imaging, MDPI, 2021, 7(2), 15. [paper](https://www.mdpi.com/2313-433X/7/2/15)
 1. Ryo Fujii, Jayakorn Vongkulbhisal, **Ryo Hachiuma**, Hideo Saito, "A Two-Block RNN-based Trajectory Prediction from Incomplete Trajectory", IEEE Access, doi: 10.1109/ACCESS.2021.3072135. [paper](https://ieeexplore.ieee.org/document/9399439)
 1. Reina Ishikawa, **Ryo Hachiuma**, Hideo Saito, "Self-Supervised Audio-Visual Feature Learning for Single-modal Incremental Terrain Type Clustering", IEEE Access, doi: 10.1109/ACCESS.2021.3075582. [paper](https://ieeexplore.ieee.org/abstract/document/9416486)
+1. Moi Hoon Yap, **Ryo Hachiuma**, Azadeh Alavi, Raphael Brüngel, Bill Cassidy, Manu Goyal, Hongtao Zhu, Johannes Rückert, Moshe Olshansky, Xiao Huang, Hideo Saito, Saeed Hassanpour, Christoph M. Friedrich, David Ascher, Anping Song, Hiroki Kajita, David Gillespie, Neil D. Reeves, Joseph Pappachan, Claire O’Shea, Eibe Frank, "Deep Learning in Diabetic Foot Ulcers Detection: A Comprehensive Evaluatio", Computers in Biology and Medicine, doi:https://doi.org/10.1016/j.compbiomed.2021.104596 [paper](https://www.sciencedirect.com/science/article/pii/S0010482521003905?via%3Dihub)
 
 ### Journal Papers (in Japanese)
 1. **Ryo Hachiuma**, Christian Pirchheim, Hideo Saito, and Dieter Schmalstieg, Real-time Multiple Object Tracking and Reconstruction with a Moving RGBD Camera, IEICE Transactions on Information and Systems, Vol.J104-D, No.4, pp.368-376．[paper](https://search.ieice.org/bin/summary.php?id=j104-d_4_368)
@@ -32,6 +33,7 @@ author_profile: true
 ### Preprints
 1. Zhengyi Luo\*, **Ryo Hachiuma**\*, Ye Yuan, Shun Iwase, Kris M. Kitani, "Kinematics-Guided Reinforcement Learning for Object-Aware 3D Ego-Pose Estimation", arxiv:2011.04837 [paper](https://arxiv.org/abs/2011.04837) (* Equal contribution)
 1. Moi Hoon Yap, **Ryo Hachiuma**, Azadeh Alavi, Raphael Brungel, Manu Goyal, Hongtao Zhu, Bill Cassidy, Johannes Ruckert, Moshe Olshansky, Xiao Huang, Hideo Saito, Saeed Hassanpour, Christoph M Friedrich, David Ascher, Anping Song, Hiroki Kajita, David Gillespie, Neil D Reeves, Joseph Pappachan, Claire O'Shea, Eibe Frank, "Deep Learning in Diabetic Foot Ulcers Detection: A Comprehensive Evaluation", arxiv:2010.03341 [paper](https://arxiv.org/abs/2010.03341)
+1. Zhengyi Luo, **Ryo Hachiuma**, Ye Yuan, Kris Kitani, "Dynamics-Regulated Kinematic Policy for Egocentric Pose Estimation", arxiv:2106.05969 [paper](https://arxiv.org/abs/2106.05969)
 
 ### International conference (First Author)
 1. **Ryo Hachiuma**, Tomohiro Shimizu, Hideo Saito, Hiroki Kajita, Yoshihumi Takatsume, "Deep Selection: A Fully Supervised Camera Selection Network for Surgery Recordings", 23rd International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_40)
@@ -44,6 +46,9 @@ author_profile: true
 8. **Ryo Hachiuma** and Hideo Saito, "Recognition and Pose Estimation of Primitive Shapes from Depth Images for Spatial Augmented Reality", IEEE Virtual Reality Workshop (IEEEVRW), March, 2016. [paper](https://ieeexplore.ieee.org/document/7859541?section=abstract)
 
 ### International conference (Co-Author)
+1. Mateo Perez Rubio, **Ryo Hachiuma**, Ryo Fujii, Hideo Saito and Luis Salgado, "2D Human Pose Completion using GANs and Graph Convolutional Networks", The 7th IIEEJ International Conference on Image Electronics and Visual Computing (IEVC 2021).
+1. Mana Masuda, **Ryo Hachiuma**, Ryo Fujii, Hideo Saito, Yusuke Sekikawa, "Event Camera Anomaly Detection in Unsupervised Manner", The 7th IIEEJ International Conference on Image Electronics and Visual Computing (IEVC 2021).
+1. Reina Ishikawa, **Ryo Hachiuma**, Hideo Saito, Ryo Fujiwara, Shoji Yachida, "Audio-Visual Judgement of In-Play or Out-of-Play in Volleyball Match Videos", The 7th IIEEJ International Conference on Image Electronics and Visual Computing (IEVC 2021).
 1. Ryosuke Hori, **Ryo Hachiuma**, Hideo Saito, Mariko Isogawa, Dan Mikami, "Silhouette-based Synthetic Data Generation for 3D Human Pose Estimation with a Single Wrist-mounted 360° Camera", International Conference on Image Processing (ICIP 2021).
 1. Mana Masuda, **Ryo Hachiuma**, Ryo Fujii, Hideo Saito, Yusuke Sekikawa, "Toward Unsupervised 3D Point Cloud Anomaly Detection using Variational Autoencoder", International Conference on Image Processing (ICIP 2021).
 1. Kana Matsuo, **Ryo Hachiuma**, Hideo Saito, Yuta Sugiura, 	"Interactive Missing Completion System for 3D Scan Data", International Conference on 3D Vision, Demo session, 2020.
