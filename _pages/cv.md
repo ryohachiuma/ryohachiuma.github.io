@@ -23,8 +23,10 @@ redirect_from:
   * TU Graz
 * Aug. 2019 - Dec. 2019: Visiting researcher
   * Carnegie Mellon University
-* Apr. 2021 - 
+* Apr. 2021 - : Computer Vision Engineer/Researcher
   * Konicaminolta
+* Jul. 2021 - : Project Assistant Professor
+  * Keio University
 
 ## Award
 - **Ryo Hachiuma**, Wentong Liao, Manuel Nickel, and Giovanna Pappalardo, <b>Honorable Mention Award</b> Essay Competition - The Social Impact of Computer Vision in International Computer Vision Summer School 2019.
