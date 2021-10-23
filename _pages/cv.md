@@ -49,9 +49,9 @@ redirect_from:
 
 ## Publications
 ### International Conference
-
 1. **Ryo Hachiuma**, Tomohiro Shimizu, Hideo Saito, Hiroki Kajita, Yoshihumi Takatsume, "Deep Selection: A Fully Supervised Camera Selection Network for Surgery Recordings", 23rd International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2020), 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_40).
-2.  **Ryo Hachiuma**, Christian Pirchheim, Dieter Schmalstieg and Hideo Saito, "DetectFusion: Detecting and Segmenting Both Known and Unknown Dynamic Objects in Real-time SLAM", 30th British Machine Vision Conference (BMVC), September, 2019. [paper](https://bmvc2019.org/wp-content/uploads/papers/0499-paper.pdf).
-3. Reina Ishikawa, **Ryo Hachiuma**, Akiyoshi Kurobe, Hideo Saito, "Single-modal Incremental Terrain Clustering from Self-Supervised Audio-Visual Feature Learning", International Conference on Pattern Recognition (ICPR), 2020.
-
+2. Reina Ishikawa, **Ryo Hachiuma**, Akiyoshi Kurobe, Hideo Saito, "Single-modal Incremental Terrain Clustering from Self-Supervised Audio-Visual Feature Learning", International Conference on Pattern Recognition (ICPR), 2020.
+3. Ryosuke Hori, **Ryo Hachiuma**, Hideo Saito, Mariko Isogawa, Dan Mikami, "Silhouette-based Synthetic Data Generation for 3D Human Pose Estimation with a Single Wrist-mounted 360° Camera", International Conference on Image Processing (ICIP 2021). [paper](https://ieeexplore.ieee.org/abstract/document/9506043)
+4. Mana Masuda, **Ryo Hachiuma**, Ryo Fujii, Hideo Saito, Yusuke Sekikawa, "Toward Unsupervised 3D Point Cloud Anomaly Detection using Variational Autoencoder", International Conference on Image Processing (ICIP 2021). [paper](https://ieeexplore.ieee.org/abstract/document/9506795)
+5. Zhengyi Luo, **Ryo Hachiuma**, Ye Yuan, Kris Kitani, "Dynamics-Regulated Kinematic Policy for Egocentric Pose Estimation", NeurIPS 2021 [paper](https://arxiv.org/abs/2106.05969).
 See all publications [here](/publications/).
