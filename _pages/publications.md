@@ -27,6 +27,8 @@ author_profile: true
 1. Moi Hoon Yap, **Ryo Hachiuma**, Azadeh Alavi, Raphael Brüngel, Bill Cassidy, Manu Goyal, Hongtao Zhu, Johannes Rückert, Moshe Olshansky, Xiao Huang, Hideo Saito, Saeed Hassanpour, Christoph M. Friedrich, David Ascher, Anping Song, Hiroki Kajita, David Gillespie, Neil D. Reeves, Joseph Pappachan, Claire O’Shea, Eibe Frank, "Deep Learning in Diabetic Foot Ulcers Detection: A Comprehensive Evaluatio", Computers in Biology and Medicine, doi:https://doi.org/10.1016/j.compbiomed.2021.104596 [paper](https://www.sciencedirect.com/science/article/pii/S0010482521003905?via%3Dihub)
 1. Yuki Saito, **Ryo Hachiuma**, Hideo Saito, Hiroki Kajita, Yoshifumi Takatsume, Tetsu Hayashida, "Camera Selection for Occlusion-less Surgery Recording via Training with an Egocentric Camera", IEEE Access, doi: 10.1109/ACCESS.2021.3118426. [paper](https://ieeexplore.ieee.org/abstract/document/9562527)
 1. Keitaro Yoshida, **Ryo Hachiuma**, Hisako Tomita, Jingjing Pan, Kris Kitani, Hiroki Kajita, Tetsu Hayashida, Maki Sugimoto, "Spatiotemporal Video Highlight by Neural Network Considering Gaze and Hands of Surgeon in Egocentric Surgical Videos", Journal of Medical Robotics Research. [paper](https://www.worldscientific.com/doi/abs/10.1142/S2424905X21410014)
+1. Alessio Xompero, Santiago Donaher, Vladimir Iashin, Francesca Palermo, Gökhan Solak, Claudio Coppola, Reina Ishikawa, Yuichi Nagao, **Ryo Hachiuma**, Qi Liu, Fan Feng, Chuanlin Lan, Rosa HM Chan, Guilherme Christmann, Jyun-Ting Song, Gonuguntla Neeharika, Chinnakotla KT Reddy, Dinesh Jain, Bakhtawar Ur Rehman, Andrea Cavallaro, "The CORSMAL benchmark for the prediction of the properties of containers", IEEE Access, doi: 10.1109/ACCESS.2022.3166906. [paper](https://ieeexplore.ieee.org/abstract/document/9756023) 
+1. Ryosuke Hori, **Ryo Hachiuma**, Mariko Isogawa, Dan Mikami, Hideo Saito, "Silhouette-based 3D Human Pose Estimation Using a Single Wrist-mounted 360° Camera", IEEE Access, doi: 10.1109/ACCESS.2022.3177623. [paper](https://ieeexplore.ieee.org/abstract/document/9780403)
 
 ### Journal Papers (in Japanese)
 1. **Ryo Hachiuma**, Christian Pirchheim, Hideo Saito, and Dieter Schmalstieg, Real-time Multiple Object Tracking and Reconstruction with a Moving RGBD Camera, IEICE Transactions on Information and Systems, Vol.J104-D, No.4, pp.368-376．[paper](https://search.ieice.org/bin/summary.php?id=j104-d_4_368)
@@ -73,7 +75,7 @@ author_profile: true
 21. Kazumasa Oniki, Yuko Ozasa, Hideo Saito and **Ryo Hachiuma**, "Classification of Potsherds into Each Earthenware Using 3D Object Retrieval", The International Workshop on Frontiers of Computer Vision (IW-FCV), February, 2018.
 
 
-### Domestic conference
+### Domestic conference (in Japanese)
 1. **八馬遼**,　中山祐介,　齋藤俊太,　斎藤英雄,ロボットによる物体把持のための部分形状モデルを用いた物体認識, 第 19 回クラウドネットワークロボット研究会, 2015.
 1. **八馬遼**,　佐野真之,　斎藤英雄,法線ベクトルマップの勾配に着目した空間型 AR のための物体識別と位置推定,動的画像処理実用化ワークショップ, 2016.
 1. **八馬遼**,　斎藤英雄,空間型 AR のための距離情報を用いた基本形状の物体識別と位置姿勢推定,第 202 回コンピュータビジョンとイメージメディア研究会, 2016. [<b>最優秀賞</b>]
