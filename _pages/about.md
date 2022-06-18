@@ -13,6 +13,7 @@ I have been researching follwing topics:
 - 3D SLAM system under the dynamic environment.
 - the computer vision algorithms for open surgery analysis.
 
+My resume can be downloaded from [here](https://drive.google.com/file/d/1WylD5lYAoNPxcTZU6dZZvIIVOGTe5O5G/view?usp=sharing).
 
 ## News
 - Our paper "Silhouette-based Synthetic Data Generation for 3D Human Pose Estimation with a Single Wrist-mounted 360° Camera" was accepted to <b>ICIP 2021</b> (Acceptance rate: 45%).
