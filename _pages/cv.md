@@ -40,6 +40,9 @@ redirect_from:
 - IEEE VR 2019 Reviewer
 - IEEE Access Reviewer
 - IPSJ Computer Vision and Applications Reviewer
+- CVPR 2023 Reviewer
+- SIGGRAPH 2023 Reviewer
+- ICIP 2022 Reviewer
 
 
 ## Competitions
