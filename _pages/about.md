@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently computer vision researcher/engineer at Konicaminolta in Japan.
-I have been researching follwing topics:
-- Skeleton-based action recognition.
-- the computer vision algorithms for open surgery analysis.
-- 3D SLAM system under the dynamic environment.
+I am currently computer vision researcher at NVIDIA Research in Taiwan.
+I have been interested in video understanding and V&L.
 
 My resume can be downloaded from [here](./resume.pdf).
 
 ## News
+- I started new position with NVIDIA Research in Taiwan.
 - Our paper "Unified Keypoint-based Action Recognition Framework via Structured Keypoint Pooling" was accepted at <b>CVPR 2023</b> (Demo video coming soon!).
 - Our paper "Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features" was accepted at <b>CVPR 2023</b>.
 - Our paper "Silhouette-based Synthetic Data Generation for 3D Human Pose Estimation with a Single Wrist-mounted 360° Camera" was accepted at <b>ICIP 2021</b> (Acceptance rate: 45%).
