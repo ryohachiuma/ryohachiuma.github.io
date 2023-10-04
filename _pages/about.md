@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently computer vision researcher at NVIDIA Research in Taiwan.
+I am currently research scientist at NVIDIA Research in Taiwan.
 I have been interested in video understanding and V&L.
 
 My resume can be downloaded from [here](./resume.pdf).
 
 ## News
 - I started new position with NVIDIA Research in Taiwan.
-- Our paper "Unified Keypoint-based Action Recognition Framework via Structured Keypoint Pooling" was accepted at <b>CVPR 2023</b> (Demo video coming soon!).
+- Our paper "Unified Keypoint-based Action Recognition Framework via Structured Keypoint Pooling" was accepted at <b>CVPR 2023</b> (Demo video can be seen at [here](https://x.com/TaikiSEKII/status/1640711588557787137?s=20)!).
 - Our paper "Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features" was accepted at <b>CVPR 2023</b>.
 - Our paper "Silhouette-based Synthetic Data Generation for 3D Human Pose Estimation with a Single Wrist-mounted 360° Camera" was accepted at <b>ICIP 2021</b> (Acceptance rate: 45%).
 - Our paper "Toward Unsupervised 3D Point Cloud Anomaly Detection using Variational Autoencoder" was accepted at <b>ICIP 2021</b>  (Acceptance rate: 45%).
